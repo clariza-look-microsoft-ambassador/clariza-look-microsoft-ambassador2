@@ -1,4 +1,4 @@
-### Hi, I'm Michelle 👋 
+### Hi, I'm Clariza 👋 
 
 <!-- followers links -->
 
@@ -6,7 +6,7 @@
 ![Profile views](https://gpvc.arturio.dev/clariza-look-microsoft-ambassador)
 
 
-<img src="https://github.com/msandfor/msandfor/blob/master/assets/gh-header-image.gif" alt="banner that says Michelle Sandford - empty stack developer, Tedx Speaker and Microsoftie alongside a photo of Michelle">
+<img src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/header.png" alt="banner that says Clariza Look, an aspiring data engineer.">
 
 <p align="center">
   <a href="https://codepen.io/codess_aus"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
