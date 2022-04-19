@@ -1,24 +1,25 @@
-### Hi, I'm Clariza 👋 
-
-<!-- followers links -->
-
 ![](https://img.shields.io/github/followers/clariza-look-microsoft-ambassador?label=Followers&style=flat-square)
 ![Profile views](https://gpvc.arturio.dev/clariza-look-microsoft-ambassador)
+ 
+<img src="https://raw.githubusercontent.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/main/header.png" alt="This is an image of Clariza Look, Aspiring Data Engineer.">
 
 
-<img src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/header.png" alt="banner that says Clariza Look, an aspiring data engineer.">
-
-<p align="center">
-  <a href="https://codepen.io/codess_aus"><img src="https://img.shields.io/badge/-Codepen.io-brightgreen?style=flat-square&logo=codepen&logoColor=white"/></a>
-<a href="https://twitter.com/codess_aus"><img src="https://img.shields.io/badge/-Twitter-55acee?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/codess_aus/"><img src="https://img.shields.io/badge/-Instagram-d3003f?style=flat-square&logo=instagram&logoColor=white"/></a>
-<a href="https://linkedin.com/in/michellesandford"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://dev.to/codess_aus"><img src="https://img.shields.io/badge/-Dev.to-B30059?style=flat-square&logo=dev.to&logoColor=white"/></a>
-<a href="http://www.youtube.com/c/MichelleSandford"><img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white"/></a>
+### Connect with me:
+<p align="left">
+<a href="https://www.linkedin.com/in/clarizalook/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.kaggle.com/clarlooktech"><img src="https://img.shields.io/badge/-Kaggle-blue"/></a>
+<a href="https://twitter.com/clarizalook"><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
 </p>
 
+<br />
+ 
+My name is Clariza Look, a digital marketing specialist turned into a DevOps Data Engineer. I am also a microsoft learn student ambassador based in Perth. Currently, I am a graduating student from the University of Western Australia taking Master of Information Technology.
 
-I'm a Developer Engagment Lead who is passionate about building community, attracting more diverse people into STEM careers, elevating new voices and enabling the disadvantaged. I love coding with  Python and Javascript - I build chatbots for fun. I mentor for SheCodes Australia, MusesCode JS, Nuevo Foundation, ABCN and Girls Programming Network. I run events, and I judge Hackathons. I am an Open Source Advocate. I am focused on Student and Data Science & AI Communities.
+- 🔭 I am always curious and loves to learn new things
+- 🌱 I play guitar
+- 👯 I love drone photography and nature walks 
+
+
 
 ## Technical Certifications
 
