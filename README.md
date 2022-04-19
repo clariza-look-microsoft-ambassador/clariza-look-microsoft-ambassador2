@@ -23,9 +23,9 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 
 ### Technical Qualifications:
 <p align="left">
-<a href=""><img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/-Kaggle-blue"/></a>
-<a href=""><img src=https://img.shields.io/badge/-Twitter-orange"/></a>
+<a href="https://www.credly.com/earner/earned/badge/ff935425-09b1-4cee-b6c8-64479dbe3a2e"><img src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png"/></a>
+<a href=""><img src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png"/></a>
+
 </p>
 
 
