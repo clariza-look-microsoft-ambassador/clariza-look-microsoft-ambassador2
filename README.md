@@ -24,9 +24,9 @@ My name is Clariza Look, a digital marketing specialist turned into a DevOps Dat
 ### Technical Qualifications:
 <p align="left">
  
- <img align="left" alt="python" width="26px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
+ <img align="left" alt="python" width="200px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-ai-fundamentals-600x600.png" />
  
-  <img align="left" alt="python" width="26px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
+  <img align="left" alt="python" width="200px" src="https://github.com/clariza-look-microsoft-ambassador/clariza-look-microsoft-ambassador/blob/main/azure-fundamentals.png" />
 
 
 </p>
